@@ -6,9 +6,9 @@ This is my first completed Blender project—a 4-second animation of a treasure 
 
 ## 🎞️ Preview
 
-![Render Preview](/Render/Exports/0100.png)
+![Render Preview](../project-01-mimic-chest/Render/Exports/0100.png)
 
-> 📽️ [Watch the animation](/Render/render.mp4) – 4 seconds
+> 📽️ [Watch the animation](../project-01-mimic-chest/Render/render.mp4) – 4 seconds
 
 ---
 
